@@ -32,7 +32,7 @@ brush_size = 2
 model_list = [["Painting", "model--WGZ_AB1"],
               ["Painting", "model--WGZ_AB2"],
               ["Painting", "model--WGZ_EF"],
-              ["Painting", "model--WGZ_OP"],
+              ["Painting", "model--WGZ_CH"],
               ["Detailed Sketch", "model--WGZ_SK"],
               ["Painting", "model--WGZ_WC"]
               ]
